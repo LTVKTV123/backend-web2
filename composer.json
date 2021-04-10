@@ -12,6 +12,7 @@
 ],	
 "license": "MIT",	
 "require": {	
+  "tuancutedeptrai/reponaodo": "*"
 },	
 "autoload": {	
 "psr-4": {	
